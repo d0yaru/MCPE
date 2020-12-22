@@ -12,7 +12,7 @@ cd "$DIR"
 # Loop starting
 # Don't edit this if you don't know what this does!
 
-DO_LOOP="no"
+DO_LOOP="yes"
 
 ##########################################
 # DO NOT EDIT ANYTHING BEYOND THIS LINE! #

@@ -1,0 +1,9 @@
+worlds/
+players/
+banned-cids.txt
+banned-ips.txt
+banned-players.txt
+white-list.txt
+ops.txt
+server.log
+plugins/ServerAuth/users/
